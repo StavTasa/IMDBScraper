@@ -1,0 +1,4 @@
+To run this app - add this repo to your local machine and do the following:
+
+1. run '''python -m pip install -r requirements.txt'''
+2. run '''python views.py'''
